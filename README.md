@@ -1,8 +1,3 @@
-# Açıklama
+# AÃ§Ä±klama
 
-Bu repository'de ben hangi programlama dillerine hakim olduğumu, hangilerinin sözdizimine aşina olduğumu 
-gösteren konsol uygulamaları yaptım.
-
-Özellikle bu konsol uygulaması yaptığım dillerden herhangi birisinin nesne tabanlı programlama (OOP)
-özelliği varsa o özelliği kullanarak karmaşık konsol uygulamaları geliştirdim. Çünkü bir dilin OOP özelliğini
-kullanarak konsol uygulaması yazmak bu dillerin sözdizimine ne kadar hakim  olduğumu ispatlayan bir emaredir. 
+Bu repository'de ben Ã§eÅŸitli programlama dilleriyle karmaÅŸÄ±k konsol uygulamalarÄ± yaptÄ±m. Bunu yapmamÄ±n amacÄ± "Fonksiyonel Programlama" ve "Nesne TabanlÄ± Programlama" mantÄ±ÄŸÄ±na ne kadar hÃ¢kim olduÄŸumu gÃ¶stermektir...
